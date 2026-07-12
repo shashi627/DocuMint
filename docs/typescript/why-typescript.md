@@ -17,7 +17,7 @@ By the end of this lesson, you'll understand:
 
 ---
 
-## Step 1: Imagine You're Building a Small App
+# Imagine You're Building a Small App
 
 Suppose you write JavaScript like this:
 
