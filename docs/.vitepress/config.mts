@@ -15,6 +15,10 @@ export default defineConfig({
               text: "What is Programming?",
               link: "/typescript/what-is-programming",
             },
+            {
+              text: "What is JavaScript?",
+              link: "/typescript/what-is-javascript",
+            },
           ],
         },
       ],

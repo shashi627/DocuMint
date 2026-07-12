@@ -1,6 +1,6 @@
 We'll start from **Lesson 1**, because if this foundation is strong, everything else becomes much easier.
 
-# Lesson 1: What is Programming?
+## Lesson 1: What is Programming?
 
 Before TypeScript, before JavaScript, before coding...
 
