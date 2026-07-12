@@ -11,14 +11,9 @@ export default defineConfig({
           text: "TypeScript Basics",
           items: [
             { text: "Get Started", link: "/typescript/get-started" },
-            {
-              text: "What is Programming?",
-              link: "/typescript/what-is-programming",
-            },
-            {
-              text: "What is JavaScript?",
-              link: "/typescript/what-is-javascript",
-            },
+            { text: "What is Programming?", link: "/typescript/what-is-programming" },
+            { text: "What is JavaScript?", link: "/typescript/what-is-javascript" },
+            { text: "Why TypeScript?", link: "/typescript/why-typescript" },
           ],
         },
       ],

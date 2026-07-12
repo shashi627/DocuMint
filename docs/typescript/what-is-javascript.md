@@ -1,3 +1,7 @@
+---
+title: What is JavaScript?
+---
+
 This lesson is one of the most important because **TypeScript is built on top of JavaScript**. If you understand JavaScript first, TypeScript will make much more sense.
 
 ---
@@ -12,12 +16,12 @@ Imagine you open **YouTube**.
 
 What do you see?
 
-* Buttons
-* Videos
-* Search bar
-* Sidebar
-* Like button
-* Comments
+- Buttons
+- Videos
+- Search bar
+- Sidebar
+- Like button
+- Comments
 
 Now think:
 
@@ -39,11 +43,11 @@ HTML creates the things on the page.
 
 Example:
 
-* Button
-* Heading
-* Image
-* Input box
-* Paragraph
+- Button
+- Heading
+- Image
+- Input box
+- Paragraph
 
 It's like the walls, doors, and windows of a house.
 
@@ -55,11 +59,11 @@ CSS makes the page look beautiful.
 
 It changes:
 
-* Colors
-* Fonts
-* Size
-* Spacing
-* Animations
+- Colors
+- Fonts
+- Size
+- Spacing
+- Animations
 
 It's like painting and decorating the house.
 
@@ -71,10 +75,10 @@ JavaScript makes the website interactive.
 
 It decides:
 
-* What happens when you click a button?
-* What happens when you type?
-* What happens when data comes from a server?
-* What happens when a timer finishes?
+- What happens when you click a button?
+- What happens when you type?
+- What happens when data comes from a server?
+- What happens when a timer finishes?
 
 Without JavaScript, a webpage is mostly static.
 
@@ -84,9 +88,9 @@ Without JavaScript, a webpage is mostly static.
 
 Imagine a human body.
 
-* HTML = Skeleton (structure)
-* CSS = Clothes and appearance
-* JavaScript = Brain and muscles (behavior and actions)
+- HTML = Skeleton (structure)
+- CSS = Clothes and appearance
+- JavaScript = Brain and muscles (behavior and actions)
 
 Without the brain, the body can't react or move.
 
@@ -132,15 +136,15 @@ That's JavaScript adding behavior.
 
 JavaScript can:
 
-* Do calculations
-* Show messages
-* Validate forms
-* Play videos
-* Build games
-* Update a page without reloading
-* Communicate with servers
-* Create animations
-* Build web applications
+- Do calculations
+- Show messages
+- Validate forms
+- Play videos
+- Build games
+- Update a page without reloading
+- Communicate with servers
+- Create animations
+- Build web applications
 
 Today, JavaScript is also used outside the browser, such as on servers using **Node.js**.
 
@@ -176,7 +180,7 @@ The program might still run, but this flexibility can lead to bugs that are hard
 
 ---
 
-## Imagine a Bank App
+# Imagine a Bank App
 
 Suppose a customer's balance should always be a number.
 
@@ -238,8 +242,8 @@ TypeScript
 
 Or another analogy:
 
-* JavaScript is like riding a bicycle without a helmet.
-* TypeScript is like riding the same bicycle while wearing a helmet.
+- JavaScript is like riding a bicycle without a helmet.
+- TypeScript is like riding the same bicycle while wearing a helmet.
 
 You can still ride the bike, but you have extra protection.
 
@@ -247,13 +251,13 @@ You can still ride the bike, but you have extra protection.
 
 ## Key Points
 
-* JavaScript makes websites interactive.
-* HTML provides structure.
-* CSS provides appearance.
-* JavaScript provides behavior.
-* Browsers understand JavaScript directly.
-* TypeScript is built on top of JavaScript.
-* TypeScript helps catch many mistakes before the code runs.
+- JavaScript makes websites interactive.
+- HTML provides structure.
+- CSS provides appearance.
+- JavaScript provides behavior.
+- Browsers understand JavaScript directly.
+- TypeScript is built on top of JavaScript.
+- TypeScript helps catch many mistakes before the code runs.
 
 ---
 

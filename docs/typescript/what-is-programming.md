@@ -1,3 +1,7 @@
+---
+title: What is Programming?
+---
+
 We'll start from **Lesson 1**, because if this foundation is strong, everything else becomes much easier.
 
 ## Lesson 1: What is Programming?
@@ -8,7 +12,7 @@ Let's first understand **what programming actually is**.
 
 ---
 
-## Imagine this situation
+# Imagine this situation
 
 You have a robot 🤖.
 
@@ -32,7 +36,7 @@ It keeps going forever.
 
 ---
 
-## Another Example
+# Another Example
 
 Suppose you tell your younger brother:
 
@@ -179,7 +183,7 @@ Later, tools convert them into instructions the computer can execute.
 
 ---
 
-## Real-life Analogy
+# Real-life Analogy
 
 Imagine you're at a restaurant.
 
@@ -227,7 +231,7 @@ Programming is really **problem-solving using code**.
 
 ---
 
-# Quick Quiz
+## Quick Quiz
 
 Try answering these without looking back:
 

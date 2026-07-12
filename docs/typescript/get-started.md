@@ -1,3 +1,7 @@
+---
+title: Get Started
+---
+
 I'll teach you **TypeScript from absolute zero to advanced**, assuming you want to understand **why things work**, not just memorize syntax.
 
 Here's how we'll learn:
